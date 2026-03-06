@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "明日、また",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2026-03-06T07:32:36.547826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ashita, Mata [明日、また]",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_Ashita,_Mata_[明日、また]_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日、また",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_明日、また_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日、また",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_明日、また_[Alexandros].txt"
+    }
+  ]
+}
